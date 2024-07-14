@@ -10,7 +10,6 @@ Project Overview
 • Data Splitting
 • Model Training
 • Model Evaluation
-• Results Visualization
 • Dataset
 •The dataset used in this project is the Sonar Mine Dataset.
 
@@ -38,9 +37,6 @@ A Logistic Regression model is loaded and trained using the training data. This 
 
 8. Model Evaluation
 The trained model is evaluated on the test data. The evaluation metrics include accuracy, F1 score, and confusion matrix. The classification report provides a detailed breakdown of the model's performance.
-
-9. Results Visualization
-Various plots are generated to visualize the results, including confusion matrix and performance metrics.
 
 Results
 • Classification Report: Provides precision, recall, and F1 score for each class.
