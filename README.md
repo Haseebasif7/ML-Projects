@@ -16,7 +16,7 @@ The dataset used in this project is the Sonar Mine Dataset.
 
 Steps and Workflow
 1. Data Collection
-The dataset is collected from the UCI Machine Learning Repository. It consists of 208 instances, each with 60 attributes plus a label indicating whether the instance is a mine (M) or a rock (R).
+The dataset is collected from the kaggle Sonar Mine DataSet. It consists of 208 instances, each with 60 attributes plus a label indicating whether the instance is a mine (M) or a rock (R).
 
 2. Preprocessing
 Data preprocessing involves cleaning the dataset and preparing it for analysis. This step ensures that the data is in a suitable format for further analysis.
@@ -55,6 +55,5 @@ Visual representation of the model's predictions versus actual labels.
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+Apache 2.0 
 
