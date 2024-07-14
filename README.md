@@ -2,21 +2,21 @@ Sonar Mine Dataset Project
 This project demonstrates a comprehensive approach to working with the Sonar Mine Dataset. The primary goal is to classify objects as either mines or rocks using a Logistic Regression model. The project involves data collection, preprocessing, statistical analysis, model training, evaluation, and visualization.
 
 Project Overview
-Data Collection
-Preprocessing
-Statistical Analysis
-Label Encoding
-Data Standardization
-Data Splitting
-Model Training
-Model Evaluation
-Results Visualization
-Dataset
-The dataset used in this project is the Sonar Mine Dataset.
+• Data Collection
+• Preprocessing
+• Statistical Analysis
+• Label Encoding
+• Data Standardization
+• Data Splitting
+• Model Training
+• Model Evaluation
+• Results Visualization
+• Dataset
+•The dataset used in this project is the Sonar Mine Dataset.
 
 Steps and Workflow
 1. Data Collection
-The dataset is collected from the kaggle Sonar Mine DataSet. It consists of 208 instances, each with 60 attributes plus a label indicating whether the instance is a mine (M) or a rock (R).
+The dataset is collected from Kaggle's Sonar Mine DataSet. It consists of 208 instances, each with 60 attributes plus a label indicating whether the instance is a mine (M) or a rock (R).
 
 2. Preprocessing
 Data preprocessing involves cleaning the dataset and preparing it for analysis. This step ensures that the data is in a suitable format for further analysis.
@@ -43,17 +43,10 @@ The trained model is evaluated on the test data. The evaluation metrics include 
 Various plots are generated to visualize the results, including confusion matrix and performance metrics.
 
 Results
-Classification Report:
-Provides precision, recall, and F1 score for each class.
-Accuracy:
-The overall accuracy of the model on the test data.
-F1 Score:
-Harmonic mean of precision and recall, providing a single metric for model performance.
-Confusion Matrix:
-Visual representation of the model's predictions versus actual labels.
-
+• Classification Report: Provides precision, recall, and F1 score for each class.
+• Accuracy: The overall accuracy of the model on the test data.
+• F1 Score: Harmonic mean of precision and recall, providing a single metric for model performance.
+• Confusion Matrix: Visual representation of the model's predictions versus actual labels.
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
-
-Apache 2.0 
 
